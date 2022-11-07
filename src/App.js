@@ -69,7 +69,7 @@ function App() {
             e.preventDefault();
             setHover(false);
           }}>
-          New Quote
+          Get New Quote
         </Button>
         <a id='tweet-quote'  href="https://twitter.com/intent/tweet">Tweet</a>
       </div>
